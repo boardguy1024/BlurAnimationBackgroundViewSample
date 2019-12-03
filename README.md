@@ -6,4 +6,4 @@
 Image３枚で背景がゆっくりと滑らかに動くアニメーションを超簡単に実現
 
 ## スクリーンショット
-<img src="./movie.gif width="200">
+<img src="./movie.gif" width="200">
